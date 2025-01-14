@@ -2,7 +2,7 @@
 
 #### Social Links Challenge
 
-#### Challenge Link :https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa
+#### Challenge Link :htpts://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRf
 
 #### Live :https://github.com/sajedaalmanaseer/product-card-page.git
 
